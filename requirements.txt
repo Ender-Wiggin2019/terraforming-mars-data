@@ -1,0 +1,17 @@
+# Data processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Database
+psycopg2-binary>=2.9.0
+sqlalchemy>=2.0.0
+
+# Environment
+python-dotenv>=1.0.0
+
+# Jupyter
+ipykernel>=6.0.0
+jupyter>=1.0.0
+
+# Excel support (optional)
+openpyxl>=3.0.0

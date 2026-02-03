@@ -1,0 +1,410 @@
+{
+    "exitedPlayers": [],
+    "activePlayer": {
+      "id": "p2966131cfd3e"
+    },
+    "awards": [
+      {
+        "name": "Biologist"
+      },
+      {
+        "name": "Scientist"
+      }
+    ],
+    "beholdTheEmperor": false,
+    "claimedMilestones": [
+      {
+        "milestone": {
+          "name": "Irrigator"
+        },
+        "player": {
+          "id": "p2966131cfd3e"
+        }
+      },
+      {
+        "milestone": {
+          "name": "Networker"
+        },
+        "player": {
+          "id": "p23b3c09f8fd3"
+        }
+      },
+      {
+        "milestone": {
+          "name": "Martian"
+        },
+        "player": {
+          "id": "pbdbba220edf1"
+        }
+      }
+    ],
+    "ceoDeck": {
+      "drawPile": [],
+      "discardPile": []
+    },
+    "colonies": [
+      {
+        "name": "Pluto",
+        "colonies": [
+          {
+            "id": "p23b3c09f8fd3"
+          },
+          {
+            "id": "p84ab1f1a973e"
+          },
+          {
+            "id": "pbdbba220edf1"
+          }
+        ],
+        "isActive": true,
+        "trackPosition": 3,
+        "visitor": {
+          "id": "pbdbba220edf1"
+        }
+      },
+      {
+        "name": "Titania",
+        "colonies": [
+          {
+            "id": "p2966131cfd3e"
+          }
+        ],
+        "isActive": true,
+        "trackPosition": 1,
+        "visitor": {
+          "id": "p2966131cfd3e"
+        }
+      }
+    ],
+    "corporationDeck": {
+      "drawPile": [
+        "Recyclon (breakthrough)",
+        "Id Front"
+      ],
+      "discardPile": [
+        "Incite Ender"
+      ]
+    },
+    "createdTimeMs": 1751267696776,
+    "currentSeed": 1710158409047,
+    "deferredActions": [],
+    "draftRound": 3,
+    "first": {
+      "id": "p2966131cfd3e"
+    },
+    "fundedAwards": [
+      {
+        "award": {
+          "name": "Space Baron"
+        },
+        "player": {
+          "id": "p84ab1f1a973e"
+        }
+      },
+      {
+        "award": {
+          "name": "Scientist"
+        },
+        "player": {
+          "id": "p84ab1f1a973e"
+        }
+      }
+    ],
+    "gagarinBase": [],
+    "stJosephCathedrals": [],
+    "gameAge": 1227,
+    "gameLog": [],
+    "gameOptions": {},
+    "generation": 5,
+    "globalsPerGeneration": [
+      {
+        "temperature": -28,
+        "oxygen": 2,
+        "oceans": 1,
+        "venus": 4
+      },
+      {
+        "temperature": -28,
+        "oxygen": 3,
+        "oceans": 4,
+        "venus": 10
+      },
+      {
+        "temperature": -20,
+        "oxygen": 8,
+        "oceans": 6,
+        "venus": 14
+      },
+      {
+        "temperature": -12,
+        "oxygen": 12,
+        "oceans": 9,
+        "venus": 16
+      },
+      {
+        "temperature": 8,
+        "oxygen": 14,
+        "oceans": 9,
+        "venus": 22
+      }
+    ],
+    "id": "g46275b186fb8",
+    "initialDraftIteration": 3,
+    "lastSaveId": 165,
+    "milestones": [
+      {
+        "name": "Irrigator"
+      },
+      {
+        "name": "Rim Settler"
+      },
+      {
+        "name": "Minimalist"
+      },
+      {
+        "name": "Networker"
+      },
+      {
+        "name": "Economizer"
+      },
+      {
+        "name": "Martian"
+      }
+    ],
+    "oxygenLevel": 14,
+    "passedPlayers": [],
+    "phase": "end",
+    "players": [
+      {
+        "id": "p23b3c09f8fd3",
+        "corporations": [
+          {
+            "name": "🌸Scolex Industries🌸",
+            "resourceCount": 0,
+            "isDisabled": false
+          },
+          {
+            "name": "Poseidon",
+            "resourceCount": 0,
+            "isDisabled": false
+          }
+        ],
+        "pickedCorporationCard": {
+          "name": "🌸Scolex Industries🌸"
+        },
+        "pickedCorporationCard2": {
+          "name": "Poseidon"
+        },
+        "terraformRating": 37,
+        "hasIncreasedTerraformRatingThisGeneration": true,
+        "megaCredits": 49,
+        "megaCreditProduction": 11,
+        "steel": 4,
+        "steelProduction": 1,
+        "titanium": 8,
+        "titaniumProduction": 6,
+        "plants": 2,
+        "plantProduction": 0,
+        "energy": 5,
+        "energyProduction": 5,
+        "heat": 4,
+        "heatProduction": 1,
+        "heatProductionStepsIncreasedThisGeneration": 0,
+        "heatForTemperature": 7,
+        "titaniumValue": 3,
+        "steelValue": 2,
+        "canUseHeatAsMegaCredits": false,
+        "canUsePlantsAsMegacredits": false,
+        "canUseTitaniumAsMegacredits": false,
+        "canUseCorruptionAsMegacredits": false,
+        "preservationProgram": false,
+        "actionsTakenThisRound": 0,
+        "actionsThisGeneration": [],
+        "pendingInitialActions": [],
+        "dealtCorporationCards": [],
+        "dealtPreludeCards": [],
+        "dealtCeoCards": [],
+        "dealtProjectCards": [],
+        "cardsInHand": [
+          {
+            "name": "Thiolava Vents"
+          },
+          {
+            "name": "Law Suit"
+          }
+        ],
+        "preludeCardsInHand": [],
+        "ceoCardsInHand": [],
+        "playedCards": [
+          {
+            "name": "Research Grant:Pathfinders",
+            "resourceCount": 0
+          },
+          {
+            "name": "Board of Directors",
+            "resourceCount": 0
+          }
+        ],
+        "draftedCards": [],
+        "cardCost": 3,
+        "cardDiscount": 0,
+        "fleetSize": 1,
+        "tradesThisGeneration": 1,
+        "colonyTradeOffset": 0,
+        "colonyTradeDiscount": 0,
+        "colonyVictoryPoints": 3,
+        "turmoilPolicyActionUsed": false,
+        "politicalAgendasActionUsedCount": 0,
+        "hasTurmoilScienceTagBonus": false,
+        "oceanBonus": 2,
+        "scienceTagCount": 0,
+        "plantsNeededForGreenery": 8,
+        "removingPlayers": [],
+        "removedFromPlayCards": [],
+        "name": "清源妙道",
+        "color": "yellow",
+        "beginner": false,
+        "handicap": 0,
+        "timer": {
+          "sumElapsed": 3068894,
+          "startedAt": 1751275550312,
+          "running": false,
+          "afterFirstAction": true,
+          "lastStoppedAt": 1751275733568
+        },
+        "undoing": false,
+        "exited": false,
+        "canExit": false,
+        "_game": {
+          "id": "p23b3c09f8fd3"
+        },
+        "userId": "ucff98876a451",
+        "actionsTakenThisGame": 132,
+        "victoryPointsByGeneration": [
+          21,
+          35,
+          39,
+          58,
+          77
+        ],
+        "totalDelegatesPlaced": 7,
+        "underworldData": {
+          "corruption": 0
+        },
+        "draftHand": [],
+        "autoPass": false,
+        "globalParameterSteps": {
+          "oceans": 3,
+          "oxygen": 2,
+          "temperature": 5,
+          "venus": 6,
+          "moon-habitat": 0,
+          "moon-mining": 0,
+          "moon-logistics": 0
+        }
+      }
+    ],
+    "preludeDeck": {
+      "drawPile": [
+        "Corporate Archives"
+      ],
+      "discardPile": [
+        "Battery Shipment"
+      ]
+    },
+    "projectDeck": {
+      "drawPile": [
+        "PR Office",
+        "Large Convoy"
+      ],
+      "discardPile": [
+        "Airliners",
+        "Earth Elevator"
+      ]
+    },
+    "researchedPlayers": [],
+    "seed": 0.3044273514712732,
+    "someoneHasRemovedOtherPlayersPlants": false,
+    "spectatorId": "s2a5344476d8d",
+    "temperature": 8,
+    "tradeEmbargo": false,
+    "underworldData": {
+      "tokens": []
+    },
+    "undoCount": 9,
+    "venusScaleLevel": 22,
+    "createtime": "2025-06-30 15:14",
+    "updatetime": "2025-06-30 17:28",
+    "breakthrough": true,
+    "cardDrew": false,
+    "heatFor": true,
+    "loadState": "loaded",
+    "firstExited": false,
+    "finishFirstTrading": true,
+    "quitPlayers": [],
+    "turmoil": {
+      "chairman": "pbdbba220edf1",
+      "rulingParty": "Mars First",
+      "dominantParty": "Kelvinists",
+      "parties": [
+        {
+          "name": "Mars First",
+          "delegates": [
+            "p2966131cfd3e"
+          ],
+          "partyLeader": "p2966131cfd3e"
+        },
+        {
+          "name": "Scientists",
+          "delegates": [
+            "p23b3c09f8fd3"
+          ],
+          "partyLeader": "p23b3c09f8fd3"
+        },
+        {
+          "name": "Unity",
+          "delegates": [
+            "p84ab1f1a973e",
+            "p84ab1f1a973e",
+            "p23b3c09f8fd3",
+            "p23b3c09f8fd3",
+            "p23b3c09f8fd3"
+          ],
+          "partyLeader": "p23b3c09f8fd3"
+        },
+        {
+          "name": "Greens",
+          "delegates": [
+            "p84ab1f1a973e",
+            "p84ab1f1a973e"
+          ],
+          "partyLeader": "p84ab1f1a973e"
+        },
+        {
+          "name": "Reds",
+          "delegates": [
+            "NEUTRAL",
+            "p84ab1f1a973e",
+            "p84ab1f1a973e"
+          ],
+          "partyLeader": "p84ab1f1a973e"
+        },
+        {
+          "name": "Kelvinists",
+          "delegates": [
+            "p2966131cfd3e",
+            "p2966131cfd3e",
+            "p2966131cfd3e",
+            "p2966131cfd3e",
+            "NEUTRAL",
+            "NEUTRAL",
+            "NEUTRAL",
+            "pbdbba220edf1"
+          ],
+          "partyLeader": "p2966131cfd3e"
+        }
+      ],
+      "playersInfluenceBonus": []
+    },
+    "logLength": 1267
+  }
