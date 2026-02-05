@@ -1,0 +1,6 @@
+players,game_count,player_records,avg_generations,std_generations,min_generations,max_generations,avg_score,std_score,min_score,max_score
+2,2177,3488,9.68,1.57,3,19,147.28,79.42,12,1000
+3,1327,2716,8.14,1.48,3,13,98.52,34.52,19,421
+4,4584,16527,5.96,1.12,3,14,78.4,27.15,-1281,477
+5,122,441,6.06,1.3,3,10,72.08,21.12,23,168
+6,9,26,6.04,1.37,3,8,64.12,21.07,33,113
